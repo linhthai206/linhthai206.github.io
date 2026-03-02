@@ -1,6 +1,6 @@
 ## About Me
 
-Hi! My name is Linh Thai, a senior at Lehigh University with double majors in Finance and Business Analytics. I also have minors in Business Information Systems and Chinese. Following my graduation in May 2023, I'm excited to gain industry knowledge and explore a career integrating both technology/data analytics and finance. Check below for my prior internship experience and class projects, and feel free to send me a message if you have any inquiries!
+Hi! My name is Linh Thai, an MBA Candidate at Georgetown University with double majors in Finance and Business Analytics. I also have minors in Business Information Systems and Chinese. Following my graduation in May 2023, I'm excited to gain industry knowledge and explore a career integrating both technology/data analytics and finance. Check below for my prior internship experience and class projects, and feel free to send me a message if you have any inquiries!
 
 ---
 
