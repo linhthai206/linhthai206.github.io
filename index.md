@@ -1,6 +1,6 @@
 ## About Me
 
-Hi! My name is Linh Thai, an MBA Candidate at Georgetown University with double majors in Finance and Business Analytics. I also have minors in Business Information Systems and Chinese. Following my graduation in May 2023, I'm excited to gain industry knowledge and explore a career integrating both technology/data analytics and finance. Check below for my prior internship experience and class projects, and feel free to send me a message if you have any inquiries!
+Hi! My name is Linh Thai, an MBA Candidate at Georgetown University majoring in Management Science with a certificate in Consumer Analytics & Insights. I am passionate about using data to uncover insights, solve complex business problems, and drive smarter decisions. I’m especially interested in roles that blend data, technology, and business strategy to create measurable impact. Below you’ll find a selection of my internships and projects using Python, R, and SQL to produce data models and visualizations. Feel free to reach out — I’m always open to connecting and talking data, strategy, or new opportunities.
 
 ---
 
@@ -8,13 +8,13 @@ Hi! My name is Linh Thai, an MBA Candidate at Georgetown University with double 
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural Language Processing 10-Ks to Identify Correlations](midterm_report)**_
+_**[Natural Language Processing 10-Ks to Identify Correlations](midterm_report)** (May 2023)_
 
 This report uses textual analysis and sentiment analysis to explore whether there is a correlation between S&P 500 companies' stock returns and positive/negative sentiment. I also performed the 10-K correlational study on three additional topics: COVID, ESG, and Climate Change. The analysis results may give insights into how companies document and mention select topics in their 10-Ks.
 
 ---
 
-_**[Visualizing Industry Patenting Trends](RETech patents/RETech patents)**_
+_**[Visualizing Industry Patenting Trends](RETech patents/RETech patents)** (May 2023)_
 
 By merging firm data and RETech patent data, I was able to explore patent trends during 1980 - 2010 in sectors Materials, Industrials, Consumer Discretionary, Healthcare, Financials, and Information Technology. Here, “RETech” measures whether the patent pertains to a technological area that is rapidly evolving or stable.
 
@@ -37,20 +37,6 @@ With the Business Analytics team, I created a dashboard report for global accoun
 _**[Visualizing Shifts in Society](https://societalshifts.com/)** (September - December 2020)_
 
 In this collaborative student-faculty research project, I helped develop a website showcasing eight societal shifts projected to have a future impact on global businesses and society. These shifts are Changing Demographics, Urbanization, Climate Change, Energy Generation & Storage, AI & Tech Innovation, Big Data, Blockchain, and Social Commerce. I collected and summarized the trend data for Climate Change and Social Commerce with graphical reports.
-
----
-
-## Career Objectives
-
-I want to explore careers that allow me to combine both of my backgrounds in finance and data analytics.
-
----
-
-## Hobbies
-
-- Foodie, cooking and baking
-- Traveling
-- K-Pop dancing
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
