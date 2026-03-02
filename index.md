@@ -1,6 +1,7 @@
 ## About Me
 
-Hi! My name is Linh Thai, an MBA Candidate at Georgetown University majoring in Management Science with a certificate in Consumer Analytics & Insights. I am passionate about using data to uncover insights, solve complex business problems, and drive smarter decisions. I’m especially interested in roles that blend data, technology, and business strategy to create measurable impact. Below you’ll find a selection of my internships and projects using Python, R, and SQL to produce data models and visualizations. Feel free to reach out — I’m always open to connecting and talking data, strategy, or new opportunities.
+Hi! My name is Linh Thai, an MBA Candidate at Georgetown University majoring in Management Science with a certificate in Consumer Analytics & Insights. I am passionate about using data to uncover insights, solve complex business problems, and drive smarter decisions. I’m especially interested in roles that blend data, technology, and business strategy to create measurable impact. 
+Below you’ll find a selection of my internships and projects using Python, R, and SQL to produce data models and visualizations. Feel free to reach out — I’m always open to connecting and talking data, strategy, or new opportunities.
 
 ---
 
